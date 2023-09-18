@@ -1,2 +1,2 @@
 # ProjetoIntegradorII
-Repositorio para versionar o back-end do projeto integrador II
+Repositorio para versionar o projeto integrador II
