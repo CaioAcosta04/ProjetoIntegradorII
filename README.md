@@ -29,9 +29,12 @@ INSTRUÇÕES PARA ABRIR O BANCO DE DADOS: <br/>
 1- Abra o software de preferência para gerenciar o banco (recomendamos o SQLDeveloper) <br/>
 2- Clique para criar uma nova conexão <br/>
 3- Após inserir as informações que deseja (nome da conexão, etc) selecionar a conexão por wallet da cloud <br/>
-4- Baixar o arquivo: Wallet_SAPOVALOAIRLINES (1) (1).zip <br/>
-5- Volte ao SQLDeveloper e clique na opção para selecionar wallet, após isso selecione o arquivo baixado na etapa acima <br/>
-6- Teste a conexão e caso obtenha sucesso clique em conectar <br/>
+4- Insira o usuário e a senha: <br/>
+    Usuário: ADMIN <br/>
+    Senha: S@povaloairlines2023 <br/>
+5- Baixar o arquivo: Wallet_SAPOVALOAIRLINES (1) (1).zip <br/>
+6- Volte ao SQLDeveloper e clique na opção para selecionar wallet, após isso selecione o arquivo baixado na etapa acima <br/>
+7- Teste a conexão e caso obtenha sucesso clique em conectar <br/>
 BANCO DE DADOS ABERTO <br/>
 <br/>
 Qualquer dúvida de como rodar qualquer etapa do projeto estamos à disposição, muito obirgado pela paciência e atenção, tenha uma ótima experiência SAPOVALO AIRLINES, nos vemos no céu. <br/>
