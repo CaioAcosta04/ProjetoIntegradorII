@@ -1,16 +1,16 @@
 # INSTRUÇÕES MODULO II PROJETO INTEGRADOR
 Grupo: Sapovalo Airlines
 
-INSTRUÇÕES PARA RODAR O FRONT-END:
-1- Fazer o download do arquivo zipado: SAPOVALOAIRLINES.zip
-2- Extrair o arquivo
-3- Abrir na sua IDE preferida a pasta FRONTEND
-4- Seguir o seguinte caminho para abrir o projeto:
-    FRONTEND\modules\portal\Principal\principal.html
-5- Abrir o arquivo ou rodar o live server com o arquivo aberto na IDE.
-
-OBSERVAÇÃO: Cogitamos retirar o modulo de administrador do projeto para a entrega do modulo 2, porém decidimos manter para demonstrar nossa organização por modulos, portanto, a pasta admin, dentro de modules, não está sendo usada no frontend do portal.
-FRONT-END ABERTO
+INSTRUÇÕES PARA RODAR O FRONT-END: <br/>
+1- Fazer o download do arquivo zipado: SAPOVALOAIRLINES.zip <br/>
+2- Extrair o arquivo <br/>
+3- Abrir na sua IDE preferida a pasta FRONTEND <br/>
+4- Seguir o seguinte caminho para abrir o projeto: <br/>
+    FRONTEND\modules\portal\Principal\principal.html <br/>
+5- Abrir o arquivo ou rodar o live server com o arquivo aberto na IDE.<br/>
+<br/>
+OBSERVAÇÃO: Cogitamos retirar o modulo de administrador do projeto para a entrega do modulo 2, porém decidimos manter para demonstrar nossa organização por modulos, portanto, a pasta admin, dentro de modules, não está sendo usada no frontend do portal.<br/>
+FRONT-END ABERTO<br/>
 
 INSTRUÇÕES PARA RODAR O BACK-END:
 1- No mesmo arquivo baixado e extraído, abrir em sua IDE de preferência a pasta BACKEND.
